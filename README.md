@@ -1,6 +1,6 @@
 # Real-Time IoT Health Monitor
 
-![Project Poster](Health Monitor Project Poster.jpg) 
+![Project Poster](poster.jpg) 
 
 ## 📝 Project Description
 A real-time health monitoring system built with ESP32 and the MAX30102 sensor. This project tracks Heart Rate, SpO2, and estimated Blood Pressure, syncing data wirelessly to the Blynk app. It features a local LCD interface and a buzzer that provides real-time audible feedback for every detected heartbeat.
