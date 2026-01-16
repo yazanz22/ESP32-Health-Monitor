@@ -12,10 +12,11 @@ A real-time health monitoring system built with ESP32 and the MAX30102 sensor. T
 - **Emergency Alerts:** Visual warnings for abnormal health metrics.
 
 ## 🛠️ Hardware Used
-- ESP32 Microcontroller
+- ESP32s Microcontroller
 - MAX30102 High-Sensitivity Pulse Oximeter
-- 20x4 LCD (I2C)
-- Piezo Buzzer & LED Indicators
+- 20x4 LCD
+- Buzzer
+- LED
 
 ## 📂 Repository Structure
 - `Health_Monitor.ino`: Main project firmware.
